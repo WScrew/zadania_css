@@ -1,0 +1,37 @@
+#pogrubienie_korol {
+    font-weight: bold;
+    font-size: 30px;
+    color: #935dd3;
+}
+
+#pochylona_korol {
+    font-style: italic;
+    font-size: 35px;
+    color: #f7c16f;
+}
+
+#index_gorny_korol {
+    font-size: 1cm;
+    color: #a78f1f;
+}
+
+#index_dolny_korol {
+    font-size: 1.5cm;
+    color: rgb(26%,95%,91%);
+}
+
+#mono_korol {
+    font-family: monospace;
+    font-size: 40px;
+    color: #27df6f;
+}
+
+#powiekszenie_korol {
+    font-size: 50px;
+    color:#613fa1;
+}
+
+#pomniejszenie_korol {
+    font-size: 19px;
+    color: rgb(77%,64%,24%);
+}
